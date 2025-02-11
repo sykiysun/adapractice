@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__case_in_parenthese.o
+[PROJECT FILES]
+E:\Ada_Tutorial\Imperative Language\imperative_language.gpr
+20250209051034 d7e6dc2e38b3fd8eb33b1ec8b71d6284
+[BOUND OBJECT FILES]
+E:\Ada_Tutorial\Imperative Language\obj\case_in_parenthese.o
+[GENERATED SOURCE FILES]
+b__case_in_parenthese.ads
+b__case_in_parenthese.adb
+b__case_in_parenthese.ali
+[RESULTING OPTIONS]
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

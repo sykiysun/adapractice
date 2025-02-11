@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__if_in_parenthese.o
+[PROJECT FILES]
+E:\Ada_Tutorial\Imperative Language\imperative_language.gpr
+20250209050752 1f6f5cddc45b826c15622b5010abc4db
+[BOUND OBJECT FILES]
+E:\Ada_Tutorial\Imperative Language\obj\if_in_parenthese.o
+[GENERATED SOURCE FILES]
+b__if_in_parenthese.ads
+b__if_in_parenthese.adb
+b__if_in_parenthese.ali
+[RESULTING OPTIONS]
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

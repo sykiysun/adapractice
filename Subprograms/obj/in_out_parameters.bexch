@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__in_out_parameters.o
+[PROJECT FILES]
+E:\Ada_Tutorial\Subprograms\increment_functions.gpr
+20250211042600 31e5bee7d912caaf0113b3fce8d0385e
+[BOUND OBJECT FILES]
+E:\Ada_Tutorial\Subprograms\obj\in_out_parameters.o
+[GENERATED SOURCE FILES]
+b__in_out_parameters.ads
+b__in_out_parameters.adb
+b__in_out_parameters.ali
+[RESULTING OPTIONS]
+-LE:\Ada_Tutorial\Subprograms\obj\
+-LE:\Ada_Tutorial\Subprograms\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

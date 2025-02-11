@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__show_increment.o
+[PROJECT FILES]
+E:\Ada_Tutorial\Subprograms\increment_functions.gpr
+20250210054414 9fd767e29af2c7e6a9cebeacfa5bc0ed
+[BOUND OBJECT FILES]
+E:\Ada_Tutorial\Subprograms\obj\increment_by.o
+E:\Ada_Tutorial\Subprograms\obj\show_increment.o
+[GENERATED SOURCE FILES]
+b__show_increment.ads
+b__show_increment.adb
+b__show_increment.ali
+[RESULTING OPTIONS]
+-LE:\Ada_Tutorial\Subprograms\obj\
+-LE:\Ada_Tutorial\Subprograms\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

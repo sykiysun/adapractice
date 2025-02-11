@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__case_statement.o
+[PROJECT FILES]
+E:\Ada_Tutorial\Imperative Language\imperative_language.gpr
+20250206022244 226699236a629a13b2e529d8771ee0a0
+[BOUND OBJECT FILES]
+E:\Ada_Tutorial\Imperative Language\obj\case_statement.o
+[GENERATED SOURCE FILES]
+b__case_statement.ads
+b__case_statement.adb
+b__case_statement.ali
+[RESULTING OPTIONS]
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

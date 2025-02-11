@@ -1,0 +1,9 @@
+project Imperative_Language is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("case_in_parenthese.adb", "if_in_parenthese.adb", "declarative_loop.adb", "declarative_if.adb", "declarative_regions.adb", "case_statement.adb", "greet_i_times_while.adb", "greet_i_times_bare.adb", 
+      "greet_i_times_null.adb", "greet_i_times_reverse.adb", "greet_i_times.adb", "if_then_else.adb", "hello_world.adb", "main.adb");
+
+end Imperative_Language;
+

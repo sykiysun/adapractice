@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__declarative_regions.o
+[PROJECT FILES]
+E:\Ada_Tutorial\Imperative Language\imperative_language.gpr
+20250206025804 e18157e916d47c88df1d052eac4fbeb6
+[BOUND OBJECT FILES]
+E:\Ada_Tutorial\Imperative Language\obj\declarative_regions.o
+[GENERATED SOURCE FILES]
+b__declarative_regions.ads
+b__declarative_regions.adb
+b__declarative_regions.ali
+[RESULTING OPTIONS]
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LE:\Ada_Tutorial\Imperative Language\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

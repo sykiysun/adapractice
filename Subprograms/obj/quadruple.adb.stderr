@@ -1,0 +1,2 @@
+quadruple.adb:10:21: error: "double" is undefined (more references follow)
+quadruple.adb:10:21: error: possible misspelling of "dobule"
